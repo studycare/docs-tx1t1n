@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://staging.ai-photo-stock.com/sitemap.xml
